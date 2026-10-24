@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "951754465967",
+    "project_id": "help-app-b8325",
+    "storage_bucket": "help-app-b8325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951754465967:android:921c4ecbb71b4ed0ccaa5a",
+        "android_client_info": {
+          "package_name": "com.evergreenhelpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951754465967-m8bvim4iji7ui9k7sb5dka6en0fgo662.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMaxBca2wbY_UbEJ7_MqdCzR4sO7s-yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951754465967-m8bvim4iji7ui9k7sb5dka6en0fgo662.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951754465967:android:a3ecf163852969fdccaa5a",
+        "android_client_info": {
+          "package_name": "com.helpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951754465967-m8bvim4iji7ui9k7sb5dka6en0fgo662.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMaxBca2wbY_UbEJ7_MqdCzR4sO7s-yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951754465967-m8bvim4iji7ui9k7sb5dka6en0fgo662.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
